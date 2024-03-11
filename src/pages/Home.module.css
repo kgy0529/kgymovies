@@ -1,0 +1,10 @@
+.homeWrap {
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+.homeWrap .appWrap {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
